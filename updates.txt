@@ -1,0 +1,4 @@
+[2025-03-28] Welcome to PETRO-AFRO Analytics Framework!
+[2025-03-28] Version 1.0 released with Well Log Analysis module.
+[2025-03-28] Added Early Stopping controls to model training.
+[2025-03-28] Improved session state management.

@@ -1,0 +1,1 @@
+{"feature_columns": ["RxoRt", "RLL3", "SP", "RILD", "MN", "MI", "MCAL", "DCAL", "RHOB", "RHOC", "DPOR", "CNLS", "GR"], "target_column": "Depth", "date_saved": "2025-03-28 21:39:01"}
